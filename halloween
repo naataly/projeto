@@ -1,7 +1,0 @@
-projeto
-=======
-git o init 
-git add README.md 
-git commit-m "primeiro commit" 
-git add remota origem https://github.com/naataly/projeto.git
- git impulso -u mestre origem
