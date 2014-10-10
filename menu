@@ -1,2 +1,7 @@
 projeto
 =======
+<ul class="nav nav-pills">
+    <li><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+    <li><a href="about.php"><span class="glyphicon glyphicon-user"></span>Sobre</a></li>
+    <li><a href="contact.php"><span class="glyphicon glyphicon-envelope"></span>Contato</a></li>
+</ul>
